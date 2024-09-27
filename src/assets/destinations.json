@@ -1,0 +1,14 @@
+{
+  "destinations": [
+    { "id": 1, "name": "Beach Paradise", "description": "Sunny beach with palm trees", "rating": 4, "imageUrl": "/images/praga.jpg" },
+    { "id": 2, "name": "Mountain Retreat", "description": "Peaceful mountain landscape", "rating": 3, "imageUrl": "/images/corfu-at-sunset.jpg" },
+    { "id": 3, "name": "Cityscape Adventure", "description": "Exciting city skyline", "rating": 5, "imageUrl": "/images/central-park.jpg" },
+    { "id": 4, "name": "Countryside Getaway", "description": "Tranquil countryside view", "rating": 4.5, "imageUrl": "/images/thassos-island.jpg" },
+    { "id": 5, "name": "Historic Landmarks Tour", "description": "Visit famous landmarks", "rating": 4, "imageUrl": "/images/washington.jpg" },
+    { "id": 6, "name": "Tropical Oasis", "description": "Lush tropical environment", "rating": 4.2, "imageUrl": "/images/sipidan-kapalai-water-village.jpg" },
+    { "id": 7, "name": "Winter Wonderland", "description": "Snow-covered landscapes", "rating": 4.8, "imageUrl": "/images/skivacation.jpg" },
+    { "id": 8, "name": "Desert Adventure", "description": "Explore vast desert landscapes", "rating": 3.7, "imageUrl": "/images/borobudur-temple-in-java.jpg" },
+    { "id": 9, "name": "Rainforest Exploration", "description": "Discover diverse rainforest ecosystems", "rating": 4.6, "imageUrl": "/images/our-lady-of-the-immaculate-conception-church-goa.jpg" },
+    { "id": 10, "name": "Mystical Caves", "description": "Journey through enchanting underground caves", "rating": 4.3, "imageUrl": "/images/blue-caves.jpg" }
+  ]
+}
